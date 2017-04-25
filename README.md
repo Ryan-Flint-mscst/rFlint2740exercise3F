@@ -1,1 +1,1 @@
-COMC2740 Ch3 p187, #1: Employee class
+COMC2740 exercise3f: modify ex2A add employee constructors
